@@ -1,0 +1,12 @@
+.login_form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.login {
+    border: 1px solid #d7d7d7;
+    padding: 10px 40px 40px 40px;
+    border-radius: 10px;
+}
